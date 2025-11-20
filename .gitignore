@@ -1,0 +1,15 @@
+# Virtual environments
+.venv/
+.venv1/
+
+# IDE
+.idea/
+.history/
+
+# Python cache
+__pycache__/
+
+# Large folders (opsiyonel)
+data/
+experiments/
+models/

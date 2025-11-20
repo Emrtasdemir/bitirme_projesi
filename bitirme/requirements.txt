@@ -1,0 +1,9 @@
+tensorflow-cpu==2.14.0
+tensorflow-addons>=0.22
+numpy==1.26.4
+opencv-python
+Pillow
+albumentations
+editdistance
+matplotlib
+pyyaml
